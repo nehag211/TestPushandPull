@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Maven Test" verbose="1" >
+  <test name="Maven Test" >
+    <packages>
+      <package name="com.basicsoftwareTest.*"/>
+    </packages>
+ </test>
+</suite>
